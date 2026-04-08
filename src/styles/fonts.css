@@ -1,0 +1,8 @@
+/* Inter - modern, cross-platform, excellent readability (used by Google, Linear, Vercel) */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+/* Noto Sans SC - Google's CJK font, best Chinese rendering on all platforms */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100..900&display=swap');
+
+/* JetBrains Mono - code blocks */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap');
